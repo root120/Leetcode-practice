@@ -10,6 +10,7 @@ Explanation: The answer is "abc", with the length of 3.
 
 Solution Idea: First of all you take each index from you'r string, than just check after the each index you get the maximum length of string. the string carry only distinct character.
 Complexity: O(n^2)
+
 */
 
 /// Note: I have a O(n) solution for this problem
